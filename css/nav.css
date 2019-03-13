@@ -9,6 +9,9 @@
 .index-nav-frame-right > ul > li:nth-child(1){margin-right: 60px;}
 .index-nav-frame-right > ul > li:nth-child(2){font-size: 9px;color: #949394;}
 .index-nav-frame-right > ul > li > a{color: #5768a4;}
+.index-nav-frame-right > ul .code{position: relative;cursor: pointer;}
+.index-nav-frame-right > ul .code div{position: absolute;top: 101px;z-index: 666666;width: 80px;height: 80px;background: #FFFFFF;text-align: center;display: none;}
+.index-nav-frame-right > ul .code div img{width: 70px;height: 70px;margin-top: 5px;}
 
 .index-nav-frame-line-center{opacity: 0;height: 0;position: absolute;overflow: hidden;width: 100%;transition: all 0.5s;-webkit-transition: all 0.5s;-moz-transition: all 0.5s;/* Firefox 4 */-o-transition: all 0.5s; /* Opera */}
 .index-nav-frame-line-li{width: 100%;font-weight: 500;text-align: center;background: white;color: #666666;}
