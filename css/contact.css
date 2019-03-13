@@ -7,6 +7,7 @@
 .contact-information .contact-information-tonion .contact-information-tonion-middle img{width: 41px;height: 41px;padding-right: 10px;}
 .contact-information .contact-information-tonion .contact-information-tonion-middle p{line-height: 41px;text-align: left;}
 .contact-information .contact-information-tonion .contact-information-tonion-right{float: right;margin-top: 50px;margin-right: 150px;}
+.contact-information .contact-information-tonion .contact-information-tonion-right img{width: 150px;height: 150px;}
 .contact-information .contact-information-tonion .contact-information-tonion-right p{text-align: center;font-size: 14px;padding-top: 10px;color: #545353;}
 @media only screen and (max-width:800px){
 .contact-banner .contact-banner-con{width: 100%;}
