@@ -1,0 +1,17 @@
+.method-of-payment{width: 100%;height: 677px;}
+.method-of-payment .payment-content{width: 1400px;margin: 0 auto;}
+.method-of-payment .payment-content .payment-content-title{padding-top: 117px;}
+.method-of-payment .payment-content .payment-content-title h2{text-align: center;color: #203786;font-size: 24px;}
+.method-of-payment .payment-content .payment-content-title p{text-align: center;color: #203786;font-size: 24px;padding-top: 30px;}
+.method-of-payment .payment-content .payment-content-method{padding-top: 45px;text-align: center;}
+.method-of-payment .payment-content .payment-content-method ul li{display: inline-block;margin:0px 50px;}
+@media only screen and (max-width:800px){
+.method-of-payment{width: 100%;height: auto;}
+.method-of-payment .payment-content{width: 100%;}
+.method-of-payment .payment-content .payment-content-title{padding-top: 17px;}
+.method-of-payment .payment-content .payment-content-title h2{text-align: center;color: #203786;font-size: 24px;}
+.method-of-payment .payment-content .payment-content-title p{text-align: center;color: #203786;font-size: 24px;padding-top: 30px;}
+.method-of-payment .payment-content .payment-content-method{padding-top: 45px;text-align: center;}
+.method-of-payment .payment-content .payment-content-method ul li{display: inline-block;width: 45%;margin: 0 6px;}
+
+}
